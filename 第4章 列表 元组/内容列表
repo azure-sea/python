@@ -22,7 +22,7 @@
         切片修改
     4. 查询
         for el in list:
-            el
+            print(el)
     5. 常用操作
         1. sort() 排序 reverse=True降序
         2. reverse() 翻转
@@ -47,3 +47,13 @@
     for i in range(len(列表)):
         i 索引
         列表[i] 元素
+
+    range   --   范围
+    print(range(1,10))    range(1,10)   [1,2,3,4,5,6,7,8,9]
+
+    py2:
+        range 和 xrange
+
+    py3:
+
+        range
