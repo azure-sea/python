@@ -1,0 +1,14 @@
+一, 选择题
+  1、如果变量x=9，那么，请选择x //=3 的结果为(): A
+    A、3.     B、6.     C、9.     D、Error.
+  2、在python解释器中,'a'+'b'+1 的执行结果为():  D
+    A、'ab1'. B、'ab+1'.  C、'a+b1'.  D、Error。
+  3、python3解释器中，range(3)的结果为():        A
+    A、0,1,2.  B、1,2,3.  C、3.   D、Error.
+  4、python解释器执行s='abcd'.replace('ab','cd'), s的结果为():  B
+    A、'abab'.  B、'cdcd'.  C、'aabb'.   D、'abcd'.
+  5、计算一下这个 1>2 and 3 or 6 的结果：        D
+    A、True.  B、False.  C、3.   D、6.
+  6、'alex'用utf-8编码需要几个字节表示?          A
+    A、4.   B、5.   C、6.   D、7.
+
