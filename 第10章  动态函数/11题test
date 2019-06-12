@@ -1,0 +1,9 @@
+在您开始之前，在你的计算机将需要Python，但您可能不需要下载它。首先检查(在命令行窗口输入python)
+有没有安装Python!如果你看到了一个Python解释器的响应，那么就能在它的显示窗口中得到一个版本号。
+通常较新的版本都可以做到Python的向前兼容。
+如果您需要安装， 您不妨下载最近稳定的版本。 就是那个以没有被标记作为alpha或Beta发行的最高的版本。
+目前最稳定的版本是Python3.0以上
+如果你使用的操作系统是Windows：当前最稳定的Windows版本下载是"Python 3.7.3 for Windows"
+如果你使用的是Mac，MacOS 10.2 (Jaguar), 10.3 (Panther) and 10.4 (Tiger)已经集成安装了Python，
+但是你大概需要安装最近通用的构架(build)。
+对于Red Hat，安装python2和python2-devel包。
