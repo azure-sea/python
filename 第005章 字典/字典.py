@@ -11,7 +11,7 @@
 # dic = {(1,2,3):'abc'}              #元组
 # print(dic)
 
-23#错误示范
+#错误示范
 # dic = {[1,2,3]:'abc'}              #列表
 # print(dic)
 # unhashable type: 'list' # 列表不可显示
